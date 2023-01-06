@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ngumi22
-- 👀 I’m interested in Software Development, Machine Learning, A.I, Python
+- 👀 I’m interested in Software Development, Python , Javascript , TypeScript
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me whatsapp: 0757011738
